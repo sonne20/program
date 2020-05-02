@@ -5,7 +5,7 @@ for i in range(5):
 	print('Hello Kemal')
 	time.sleep(1)
 	
-	
+#deneme2	
 line = "Cats are smarter than dogs"
 
 matchObj = re.match( r'(.*) are (.*?) .*', line, re.M|re.I)
